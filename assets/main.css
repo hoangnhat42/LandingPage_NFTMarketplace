@@ -232,7 +232,7 @@ h1 {
         0deg,
         rgba(72, 252, 139, 0) 0%,
         #48fc8b 50%,
-        rgba(72, 252, 139, 0) 100%,
+        rgba(72, 252, 139, 0) 100%
     );
     filter: drop-shadow(0 0 0.5em #48fc8b);
     margin: 0 2em;
