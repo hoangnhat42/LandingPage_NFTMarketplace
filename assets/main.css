@@ -504,7 +504,7 @@ trial .btn {
 
 .grid div:nth-child(7) {
     grid-column: 4 / 7;
-    grid-row: 2 / 6;
+    grid-row: 3 / 6;
 }
 
 .grid div:hover {
@@ -605,7 +605,7 @@ trial .btn {
 
 .artists .card:nth-child(2) {
     background: radial-gradient(
-        rgb(30, 35, 99)
+        rgb(30, 35, 99),
         rgba(30, 35, 99, 0.5)
     );
     border-color: #394b95;
@@ -621,7 +621,7 @@ trial .btn {
 
 .artists .card:nth-child(3) {
     background: radial-gradient(
-        rgb(82, 22, 81)
+        rgb(82, 22, 81),
         rgba(82, 22, 81, 0.5)
     );
     border-color: #bb3bad;
@@ -637,7 +637,7 @@ trial .btn {
 
 .artists .card:nth-child(4) {
     background: radial-gradient(
-        rgb(78, 13, 48)
+        rgb(78, 13, 48),
         rgba(78, 13, 48, 0.5)
     );
     border-color: #b14d44;
