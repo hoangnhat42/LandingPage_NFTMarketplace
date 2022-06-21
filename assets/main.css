@@ -725,6 +725,7 @@ footer p {
     text-align: center;
     padding: 20px;
     border-radius: 20px;
+    background-color: indigo;
     backdrop-filter: blur(15px);
        border-top: 1px solid rgba(255,255,255,0.2);
        border-left: 1px solid rgba(255,255,255,0.2);
