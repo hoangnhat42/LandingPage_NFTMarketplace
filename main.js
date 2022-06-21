@@ -8,3 +8,10 @@ const menuBtn = document.querySelector('.menu-btn');
 menuBtn.addEventListener('click', () => {
     menu.classList.toggle('menu-open'); 
 }); 
+
+
+//Popup login
+function togglePopup() {
+    document.getElementById("popup-1")
+     .classList.toggle("active");
+   }

@@ -18,12 +18,13 @@
         overflow: hidden;
         z-index: 9;
     }
-    nav .btn-primary {
+    nav .brand,
+  /*  nav .btn-primary {
         display: none;
     }
     .menu .btn-primary {
         display: block;
-    }
+    } */
     /*Open Class For JavaScript Toggle*/
     nav .menu-open {
         opacity: 1;
